@@ -1,0 +1,13 @@
+﻿Day,City,Temperature,Windspeed,Event
+01-01-2022,New York,32,6,Rain
+01-02-2022,New York,36,7,Sunny
+01-03-2022,New York,28,12,Snow
+01-04-2022,New York,33,7,Sunny
+01-01-2022,Mumbai,90,5,Sunny
+01-02-2022,Mumbai,85,12,Fog
+01-03-2022,Mumbai,87,15,Fog
+01-04-2022,Mumbai,92,5,Rain
+01-01-2022,Paris,45,20,Sunny
+01-02-2022,Paris,50,13,Cloudy
+01-03-2022,Paris,49,8,Cloudy
+01-04-2022,Paris,43,10,Cloudy
